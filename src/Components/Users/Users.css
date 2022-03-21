@@ -1,0 +1,12 @@
+.users{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.user{
+    background-color: lightblue;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid gold;
+    border-radius: 10px;
+}
